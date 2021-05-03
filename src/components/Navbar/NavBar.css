@@ -1,0 +1,9 @@
+.border-bottom {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.308) !important;
+}
+.header {
+  color: #2026d2 !important;
+}
+.text-light {
+  color: white !important;
+}
