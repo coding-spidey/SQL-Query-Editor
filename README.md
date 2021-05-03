@@ -13,3 +13,5 @@ As you can see in the above image that the load time is ~6 millisecond.
 We tried to use Webpack for better building our app, but it didn't improve the timings much.
 
 As our website is already very light on resources, we didn't have much to change in order to improve performance
+
+**DEMO** : https://tender-leavitt-a52f29.netlify.app
